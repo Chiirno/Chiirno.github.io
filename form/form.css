@@ -1,7 +1,12 @@
 form {
   margin-left: 20px;
+  overflow: hidden;
 }
 
 #formDiv {
-  
+  border-style: solid;
+  margin-right: 500px;
+}
+
+input {
 }
