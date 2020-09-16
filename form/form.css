@@ -5,10 +5,18 @@ form {
 
 #formDiv {
   border-style: solid;
-  margin-right: 500px;
+  margin-right: 900px;
   margin-left: 20px;
 }
 
-input {
+/* div {
+  border-style: solid;
+} */
+
+#forum>input {
   margin: 3px;
+}
+
+#forumfooter {
+  margin: 2px; 
 }
