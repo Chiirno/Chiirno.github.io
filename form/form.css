@@ -1,8 +1,7 @@
 form {
-  border-style: dotted;
+  border-style: solid;
   margin-right: 900px;
   margin-left: 20px;
-  overflow: hidden;
 }
 
 #formData>input {
