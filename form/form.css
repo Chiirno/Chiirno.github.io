@@ -1,22 +1,18 @@
 form {
+  border-style: dotted;
+  margin-right: 900px;
   margin-left: 20px;
   overflow: hidden;
 }
 
-#formDiv {
-  border-style: solid;
-  margin-right: 900px;
-  margin-left: 20px;
-}
-
-/* div {
-  border-style: solid;
-} */
-
-#forum>input {
+#formData>input {
   margin: 3px;
 }
 
-#forumfooter {
-  margin: 2px; 
+#formData {
+  margin-left: 20px;
+}
+
+#formFooter{
+  margin: 3px;
 }
